@@ -1,0 +1,6 @@
+name: quarkiverse-freemarker
+title: Quarkiverse Freemarker
+version: 1.0.0
+start_page: freemarker.adoc
+nav:
+- freemarker.adoc
