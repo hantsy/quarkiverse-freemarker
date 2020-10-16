@@ -6,13 +6,9 @@ https://github.com/quarkusio/quarkus/tree/master/docs/src/main/asciidoc
 = Freemarker Templating Engine
 :extension-status: preview
 
-include::./attributes.adoc[]
-
 Freemarker is a very popular and mature templating engine. Its integration as a Quarkus extension
 provides developers ease of configuration, and offers support for native images.
 In this guide, you will learn how to easily render Freemarker templates in your application.
-
-include::./status-include.adoc[]
 
 == Hello World
 
